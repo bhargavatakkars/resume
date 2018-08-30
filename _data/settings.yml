@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Bhargava Sharma
+description: Thinker // Devsigner // WP Expert
+email: bhargava@bhargava.me
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -46,11 +46,11 @@ blurb: >
 
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Organization, value: '7'}
-- {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
-- {name: Planning, value: '7'}
+- {name: Wordpress, value: '9'}
+- {name: Javescript, value: '7'}
+- {name: PHP, value: '7'}
+- {name: Core Java, value: '6'}
+- {name: Web Design, value: '8'}
 - {name: Visual Design, value: '5'}
 - {name: UX Design, value: '8'}
 - {name: Programming, value: '6'}
